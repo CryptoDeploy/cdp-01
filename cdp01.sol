@@ -5,18 +5,14 @@ pragma solidity 0.5.0; /*
     => Higher degree of control by owner - safeguard functionality
     => SafeMath implementation 
     => Burnable and minting 
-
-
 ======================= Quick Stats ===================
     => Name        : Crypto Deploy
     => Symbol      : CDP
     => Decimals    : 18
 
 
-
-
 -------------------------------------------------------------------
- Copyright (c) 2019 onwards Cryptodeploy Inc. ( https://cryptodeploy.io )
+ Copyright (c) 2019 Cryptodeploy.  (https://cryptodeploy.io)
 -------------------------------------------------------------------
 */ 
 
