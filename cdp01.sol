@@ -1,6 +1,6 @@
 pragma solidity 0.5.0; /*
 
-=== 'CDP' Token contract with following features ===
+=== CDP Token contract Info  ===
     => ERC20 Compliance
     => Higher degree of control by owner - safeguard functionality
     => SafeMath implementation 
